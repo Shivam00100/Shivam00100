@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shivam00100
 - 👀 I’m interested in coding 
+- 🌀 I mostly use cpp for problem solving
 - 🌱 I’m currently learning Rust and java
 - 💞️ I’m looking to collaborate on blockchain development
 - 📫 How to reach me :envelope: shivamrai.srai.shiva@gmail.com
