@@ -19,9 +19,9 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Shivam00100)
 
-<br>
+<!-- <br>
 ## My Contribution snake
-![Contribution snake example](https://github.com/<shivam00100>/<shivam00100>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/<shivam00100>/<shivam00100>/blob/output/github-contribution-grid-snake.svg) -->
 
 <br>
 
