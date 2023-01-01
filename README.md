@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌀 I mostly use cpp for problem solving
 - 🌱 I’m currently learning Rust and java
-- 💞️ I’m looking to collaborate on blockchain development
+
 
 <!-- SOCAIL MEDIA HANDLES -->
 [![Gmail Badge](https://img.shields.io/badge/-shivamrai.srai.shiva@gmail.com-c14438?style=curve-square&logo=Gmail&logoColor=white&link=mailto:shivamrai.srai.shiva@gmail.com)](mailto:shivamrai.srai.shiva@gmail.com)
